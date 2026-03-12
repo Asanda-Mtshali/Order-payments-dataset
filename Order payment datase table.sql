@@ -1,0 +1,6 @@
+SELECT TOP (1000) [order_id]
+      ,[payment_sequential]
+      ,[payment_type]
+      ,[payment_installments]
+      ,[payment_value]
+  FROM [Archive].[dbo].[order_payment_dataset]
