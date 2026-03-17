@@ -34,6 +34,12 @@ Measured income from non-credit card payment methods.
 
 Counted how many payments were made using credit cards.
 
+### 4. Types of payment methods
+
+Determines different types of payment methods found in the dataset.
+
+### 5. 
+
 ## 💡 Key Insights
 
 * Credit cards are a dominant payment method
