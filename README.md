@@ -50,7 +50,6 @@ Determine different types of payment methods found in the dataset.
 
 ## 🛠 Tools Used
 
-*Excel
 * SQL Server Management Studio (SSMS)
 * GitHub
 
