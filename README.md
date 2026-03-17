@@ -36,9 +36,9 @@ Counted how many payments were made using credit cards.
 
 ### 4. Types of payment methods
 
-Determines different types of payment methods found in the dataset.
+Determine different types of payment methods found in the dataset.
 
-### 5. 
+### 5. Average number of payments per order
 
 ## 💡 Key Insights
 
